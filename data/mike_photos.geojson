@@ -1,7 +1,1 @@
-{
-"type": "FeatureCollection",
-                                                                                
-"features": [
-{ "type": "Feature", "id": 0, "properties": { "NAME": "Seoul Tower", "URL": ""}, "geometry": { "type": "Point", "coordinates": [ 126.988253, 37.551245 ] } }
-]
-}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":1,"Name":"King Sejong Statue","URL":"NA"},"geometry":{"type":"Point","coordinates":[126.97720170021059,37.57274610034383]}},{"type":"Feature","properties":{"id":2,"Name":"Palace near Jonggak Station","URL":"NA"},"geometry":{"type":"Point","coordinates":[126.98328495025636,37.56999092881442]}},{"type":"Feature","properties":{"id":3,"Name":"Mike over Cheonggye Stream","URL":"NA"},"geometry":{"type":"Point","coordinates":[126.9855996966362,37.56827314683569]}},{"type":"Feature","properties":{"id":4,"Name":"Cheonggye Stream 1","URL":"NA"},"geometry":{"type":"Point","coordinates":[126.9930374622345,37.56837519439669]}},{"type":"Feature","properties":{"id":5,"Name":"Cheonggye Stream 2","URL":"NA"},"geometry":{"type":"Point","coordinates":[126.98486745357513,37.568443226026375]}},{"type":"Feature","properties":{"id":6,"Name":"South of Jonggak Station","URL":"NA"},"geometry":{"type":"Point","coordinates":[126.98282361030579,37.56897046904943]}},{"type":"Feature","properties":{"id":7,"Name":"Dongdaemun Toy Market","URL":"NA"},"geometry":{"type":"Point","coordinates":[127.01354026794435,37.57156411022689]}},{"type":"Feature","properties":{"id":8,"Name":"Lotte City Hotel Mapo","URL":"NA"},"geometry":{"type":"Point","coordinates":[126.95119500160217,37.54454329415261]}}]}
