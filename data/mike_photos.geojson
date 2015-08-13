@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Seoul Tower", "URL": ""}, "geometry": { "type": "Point", "coordinates": [ 126.988253, 37.551245 ] } }
+]
+}
