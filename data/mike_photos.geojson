@@ -1,1 +1,365 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":1,"Name":"King Sejong Statue","URL":"NA"},"geometry":{"type":"Point","coordinates":[126.97720170021059,37.57274610034383]}},{"type":"Feature","properties":{"id":2,"Name":"Palace near Jonggak Station","URL":"NA"},"geometry":{"type":"Point","coordinates":[126.98328495025636,37.56999092881442]}},{"type":"Feature","properties":{"id":3,"Name":"Mike over Cheonggye Stream","URL":"NA"},"geometry":{"type":"Point","coordinates":[126.9855996966362,37.56827314683569]}},{"type":"Feature","properties":{"id":4,"Name":"Cheonggye Stream 1","URL":"NA"},"geometry":{"type":"Point","coordinates":[126.9930374622345,37.56837519439669]}},{"type":"Feature","properties":{"id":5,"Name":"Cheonggye Stream 2","URL":"NA"},"geometry":{"type":"Point","coordinates":[126.98486745357513,37.568443226026375]}},{"type":"Feature","properties":{"id":6,"Name":"South of Jonggak Station","URL":"NA"},"geometry":{"type":"Point","coordinates":[126.98282361030579,37.56897046904943]}},{"type":"Feature","properties":{"id":7,"Name":"Dongdaemun Toy Market","URL":"NA"},"geometry":{"type":"Point","coordinates":[127.01354026794435,37.57156411022689]}},{"type":"Feature","properties":{"id":8,"Name":"Lotte City Hotel Mapo","URL":"NA"},"geometry":{"type":"Point","coordinates":[126.95119500160217,37.54454329415261]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Name": "King Sejong Statue",
+        "URL": "https://goo.gl/photos/4GWkLkRcEiHkgKkp6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97720170021059,
+          37.57274610034383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "Name": "Palace near Jonggak Station",
+        "URL": "https://goo.gl/photos/wLFQJCJdy4uEtQYb8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98328495025636,
+          37.56999092881442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "Name": "Mike over Cheonggye Stream",
+        "URL": "https://goo.gl/photos/h7xqnBA1znZi5ba27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9855996966362,
+          37.56827314683569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "Name": "Cheonggye Stream 1",
+        "URL": "https://goo.gl/photos/nZVbQEvg9ubtjiFQ7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9930374622345,
+          37.56837519439669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "Name": "Cheonggye Stream 2",
+        "URL": "https://goo.gl/photos/ks8uqnTizyXNQB9E9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98486745357513,
+          37.568443226026375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "Name": "South of Jonggak Station",
+        "URL": "https://goo.gl/photos/zvPkej6VJB5mx66B7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98282361030579,
+          37.56897046904943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "Name": "Dongdaemun Toy Market",
+        "URL": "https://goo.gl/photos/LepbswBHbeRPkj238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.01354026794435,
+          37.57156411022689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "Name": "Lotte City Hotel Mapo",
+        "URL": "https://goo.gl/photos/Tab7TuMuavUUxJ1v6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.95119500160217,
+          37.54454329415261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "Name": "Lotte City Hotel Mapo facing south",
+        "URL": "https://goo.gl/photos/tfbnQeW5kvBNyjRT6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.95106089115143,
+          37.54421578634014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "Name": "Lotte City Hotel Mapo courtyard",
+        "URL": "https://goo.gl/photos/9x6deZZfvj1VWmcT6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9509482383728,
+          37.544500760751774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "Name": "Mike with Egg at Lotte City Hotel",
+        "URL": "https://goo.gl/photos/WoMh5CkvpJFRdr8M9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.95072293281554,
+          37.54457732085582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "Name": "Looking at Seoul Tower",
+        "URL": "https://goo.gl/photos/ENu57LD2CxmHWd9QA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98927164077757,
+          37.55127177257209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "Name": "Looking West from Seoul Tower",
+        "URL": "https://goo.gl/photos/zz322a6YEDsuXoT38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9883006811142,
+          37.551016594838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "Name": "Panorama from Seoul Tower",
+        "URL": "https://goo.gl/photos/sgCC7rKCy8Jf1Si49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98791980743408,
+          37.55111016010861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "Name": "Looking NW from Seoul Tower",
+        "URL": "https://goo.gl/photos/QyGEKzK63iqYQFPHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98828995227814,
+          37.55139936111154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "Name": "Looking North from top of Seoul Tower",
+        "URL": "https://goo.gl/photos/PwryZ1YNND7GqQRP8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.98828458786011,
+          37.55124200188147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "Name": "Namdaemun Market",
+        "URL": "https://goo.gl/photos/aZKrACi6JRRNUYQk9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97721779346466,
+          37.5601429085827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "Name": "Seoul Station 1",
+        "URL": "https://goo.gl/photos/kfcq8pNudiYoQnAp8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97151541709898,
+          37.55516737749599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "Name": "Seoul Station 2",
+        "URL": "https://goo.gl/photos/DudVDhz6U2cQXLn99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97174072265625,
+          37.554937729579024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "Name": "Seoul Station 3 Looking East",
+        "URL": "https://goo.gl/photos/Do5Gq6PzhunpwXrJ9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97177290916443,
+          37.55568620907325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "Name": "Seoul Station 4 Looking East",
+        "URL": "https://goo.gl/photos/ZmpeHBEoQLvEp5p17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9717675447464,
+          37.55599665574865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "Name": "Looking at Seoul Station",
+        "URL": "https://goo.gl/photos/EedGDYERa2J7PuXp6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97181046009064,
+          37.554631531255524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "Name": "Anguk Station Looking NW",
+        "URL": "https://goo.gl/photos/MiCKH8kwq2unHCbw9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97681546211243,
+          37.575603207605845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "Name": "War Memorial",
+        "URL": "https://goo.gl/photos/J2iS2HdWKmvqPatt9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97633266448975,
+          37.53498117522043
+        ]
+      }
+    }
+  ]
+}
