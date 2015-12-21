@@ -114,7 +114,10 @@ var mike_photos = L.geoJson(null, {
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Name</th><td>" + feature.properties.NAME + "</td></tr><tr><th>URL</th><td><a class='url-break' href='" + feature.properties.URL + "' target='_blank'>" + feature.properties.URL + "</a></td></tr>" + "<table>";
+      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Name</th><td>";
+      content += feature.properties.Name + "</td></tr><tr><th>URL</th><td><a class='url-break' href='";
+      content += feature.properties.URL + "' target='_blank'>" + feature.properties.URL + "</a></td></tr>" + "<table><br>";
+      content += "<img src=\""+feature.properties.URL+"\" alt=\"Photo\" height=\"42\" width=\"42\"> ";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.NAME);
